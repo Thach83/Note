@@ -7,7 +7,7 @@ Tôi nên sắp xếp kế hoạch học tập như thế nào?
 
 “Điều quan trọng là phải xem kiến thức như một loại cây ngữ nghĩa - hãy đảm bảo rằng bạn hiểu các nguyên tắc cơ bản, tức là thân cây và các cành lớn, trước khi bạn đi vào các chi tiết / lá
 
-
+------------------
 Tiếng Anh Nói:
 1. Học 44 phiên âm Tiếng Anh trong bảng IPA
 Cấp 3 cô giáo mình dạy rất tâm huyết luôn nhưng hồi đấy chủ yếu học từ vựng ngữ pháp nên mình ko để tâm quá nhiều. Lên đại học là mình tập luyện lại kỹ hơn phần này để có thể tự tra từ điển Tiếng Anh cho biết cách đọc từng từ.
